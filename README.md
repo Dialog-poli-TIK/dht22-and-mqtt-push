@@ -1,1 +1,1 @@
-# dht22-and-mqtt-push
+# DHT-22 and MQTT Push
